@@ -1,2 +1,7 @@
 # ejercicio1
-nuestro proyecto 
+nuestro proyecto
+
+#Lista del super
+-Azucar
+-Flores
+-Y muchos colores 
